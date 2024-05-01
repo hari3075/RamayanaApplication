@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+}
+#container{
+    font-style: italic;
+}
+.title{
+    text-align: center;
+}
+.title h1 {
+    color: blue;
+    position: relative; /* Ensure the element is positioned relative or absolute */
+    animation: slideIn 0.5s forwards normal;
+  }
+  
+  @keyframes slideIn {
+    from {
+      right: 100%; /* Start position (off-screen to the right) */
+    }
+    to {
+      right: 0; /* End position (fully visible) */
+    }
+  }
+  
+  
+
+    
+  
+
+.title h6{
+    color: white;
+}
+.paragraph{
+    padding:20px;
+
+}
+.my-svg{
+height: 800px;
+width: 30%;
+float: left;
+}
+.my-svg1{
+    height: 200px;
+    width: 30%;
+    float: left;  
+}
+.my-svg2{
+    height: 200px;
+    width: 30%;
+    float: left;   
+}
+.heading{
+    text-align: center;
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    padding: 15px;
+}
+.reference{
+    text-align: center;
+}
