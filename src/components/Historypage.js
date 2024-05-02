@@ -1,4 +1,5 @@
 import React from 'react'
+import { ReactComponent as MySVG5 } from '../Assets/Ramayana.svg';
 import './style.css'
 const Historypage = () => {
   return (
@@ -23,9 +24,11 @@ const Historypage = () => {
       The Ramayana not only serves as a sacred scripture but also as a timeless source of moral and philosophical teachings, inspiring millions to uphold principles of righteousness, loyalty, and devotion in their lives. Through Rama's journey, the epic imparts valuable lessons on duty, sacrifice, love, and the ultimate triumph of good over evil.
       </p>
       <div className='reference'>
+      <MySVG5 className='my-svg3' />
       <h3>Reference</h3>
-      <iframe width="50%" height="315" src="https://www.youtube-nocookie.com/embed/GgoYkVCuagY?si=RXliQM-BSivco5Ab&amp;start=3319" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="50%" height="315" src="https://www.youtube-nocookie.com/embed/GgoYkVCuagY?si=RXliQM-BSivco5Ab&amp;start=3319" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
+
     </div>
   )
 }

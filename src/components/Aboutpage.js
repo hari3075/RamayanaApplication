@@ -49,6 +49,7 @@ The story of Rama is not only a religious scripture but also a cultural and mora
         <p>
 Ravana, the antagonist in the Hindu epic Ramayana, stands as a complex and multifaceted character embodying both grandeur and villainy. As the sovereign of Lanka, he commands immense power, intellect, and devotion, particularly to Lord Shiva. Yet, his fatal flaw lies in his unchecked ambition and pride, leading to his audacious abduction of Sita, the wife of Lord Rama. Despite his role as the primary antagonist, Ravana is portrayed with layers of complexity, revealing glimpses of nobility, scholarly wisdom, and familial loyalty. His ultimate downfall serves as a poignant reminder of the perils of ego and the supremacy of dharma, resonating with timeless themes of righteousness, power, and the eternal struggle between good and evil in Hindu mythology.</p>
     </div>
+    
     </div>
     
   )

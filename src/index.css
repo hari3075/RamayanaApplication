@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@media only screen and (max-width: 800px) {
+  body {
+      max-width: 800px; /* Set maximum width */
+      height: 750px; /* Set height */
+      margin: 0 auto; /* Center content horizontally */
+  }
+}

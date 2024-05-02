@@ -22,7 +22,16 @@
     }
   }
   
-  
+  @media only screen and (max-width: 800px) {
+    .my-svg,
+    .my-svg1,
+    .my-svg2,
+    .my-svg3{
+        width: 100%; /* Change width to full width */
+        height: auto; /* Adjust height automatically */
+        float: none; /* Remove floating */
+    }
+}
 
     
   
@@ -61,3 +70,6 @@ float: left;
 .reference{
     text-align: center;
 }
+
+/* For devices with a maximum width of 800px */
+
